@@ -2,7 +2,7 @@
 # A system that ingests documents, creates knowledge graphs, and provides interactive visualization
  
 import os
-import json
+import json 
 import logging
 from typing import Dict, List, Tuple, Set, Optional 
 from dataclasses import dataclass, asdict
@@ -1694,5 +1694,6 @@ def main():
 if __name__ == "__main__":
 
     main()
+
 
 
