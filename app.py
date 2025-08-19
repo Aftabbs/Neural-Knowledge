@@ -1,6 +1,6 @@
 # Personal Knowledge Assistant with Neo4j and Visualization
 # A system that ingests documents, creates knowledge graphs, and provides interactive visualization
-
+ 
 import os
 import json
 import logging
@@ -1692,4 +1692,5 @@ def main():
             assistant.close()
 
 if __name__ == "__main__":
+
     main()
