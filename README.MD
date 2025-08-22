@@ -6,7 +6,7 @@
 [![Neo4j](https://img.shields.io/badge/Neo4j-4.4+-blue.svg)](https://neo4j.com/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red.svg)](https://streamlit.io/) 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
+ 
 ## Overview
 
 The Personal Knowledge Assistant is an advanced AI-powered system that transforms your documents into an interactive knowledge graph. It automatically extracts entities, relationships, and concepts from your files, then enables you to explore and query your knowledge base through natural language conversations.
@@ -628,6 +628,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Streamlit Team** - For the intuitive web framework
 - **spaCy Team** - For the robust NLP library
 - **Open Source Community** - For the countless libraries and tools that make this project possible
+
 
 
 
