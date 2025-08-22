@@ -21,7 +21,7 @@ The Personal Knowledge Assistant is an advanced AI-powered system that transform
 - **Advanced Search** - Semantic search across entities and relationships
 - **Analytics Dashboard** - Network analysis, centrality metrics, and statistical insights
 
-
+ 
 ![alt text](assets/ui.1.png)
 
 ![alt text](assets/ui.2.png)
@@ -628,6 +628,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Streamlit Team** - For the intuitive web framework
 - **spaCy Team** - For the robust NLP library
 - **Open Source Community** - For the countless libraries and tools that make this project possible
+
 
 
 
