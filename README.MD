@@ -1,6 +1,6 @@
 # Personal Knowledge Assistant
 ![alt text](assets/mian.png)
-> *Transform your documents into an intelligent, queryable knowledge graph powered by AI*
+> *Transform your documents into an intelligent, queryable knowledge graph powered by AI* 
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Neo4j](https://img.shields.io/badge/Neo4j-4.4+-blue.svg)](https://neo4j.com/)
@@ -628,4 +628,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Streamlit Team** - For the intuitive web framework
 - **spaCy Team** - For the robust NLP library
 - **Open Source Community** - For the countless libraries and tools that make this project possible
+
 
